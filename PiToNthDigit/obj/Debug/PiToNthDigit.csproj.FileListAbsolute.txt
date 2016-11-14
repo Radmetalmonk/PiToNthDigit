@@ -1,0 +1,6 @@
+C:\CSharp\100Projects\Numbers\PiToNthDigit\PiToNthDigit\bin\Debug\PiToNthDigit.exe.config
+C:\CSharp\100Projects\Numbers\PiToNthDigit\PiToNthDigit\obj\Debug\PiToNthDigit.csprojResolveAssemblyReference.cache
+C:\CSharp\100Projects\Numbers\PiToNthDigit\PiToNthDigit\bin\Debug\PiToNthDigit.exe
+C:\CSharp\100Projects\Numbers\PiToNthDigit\PiToNthDigit\bin\Debug\PiToNthDigit.pdb
+C:\CSharp\100Projects\Numbers\PiToNthDigit\PiToNthDigit\obj\Debug\PiToNthDigit.exe
+C:\CSharp\100Projects\Numbers\PiToNthDigit\PiToNthDigit\obj\Debug\PiToNthDigit.pdb

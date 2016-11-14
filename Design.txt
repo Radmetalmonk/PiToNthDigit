@@ -1,0 +1,29 @@
+Project: Pi to the Nth Digit
+Author: Tim Lindsted (Radmetalmonk; TELindsted@gmail.com)
+Purpose: Educational; Library
+
+Language: C#
+Interface: Console
+Description: The program will calculate and display pi to the nth digit.
+
+Inputs: 
+[0] int N, integer that limits the amount of digits to display
+
+Outputs: 
+[0] double Result, Pi to the Nth digit
+
+Warnings:
+[0] Output must be limited to X characters, internalized in the program.
+
+Methods: 
+[0] Using trig functions, I found that pi can be calculated a variety of ways.  I'm going with Pi = 4.0 * arctan(1.0).  A possible holdup on this method lies within the builtin trig functions of c#.
+[0.a] We are limited based on current storage capacity of computing (double long?).
+
+[1] Calculate each digit of pi and store in an array (or list).  So caculate Pi to n digits would have a collection with n places (+1 for the 3, or +2 for the 3.) This method would be much slower than simply truncating the result of 4*Math.Atan(1) but would allow for pi to be calculated to N places legitemently.  Check out Source[1] for some hints on doing this with methods such as infinite series.
+
+Structure:
+1 Class does all the work
+
+Sources:
+[0] Origin of idea: https://github.com/karan/Projects
+[1] Ways to calculate pi: http://www.mathscareers.org.uk/article/calculating-pi/
